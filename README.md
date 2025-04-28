@@ -15,8 +15,6 @@ Formação em Administração de empresas.
 
 Atualmente estudando Quality Assurance, com curso teórico e prático pela Qa Coders Academy.
 
-📈 GitHub Stats
-
 📬 Contato
 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jamile-xavier/)
 
