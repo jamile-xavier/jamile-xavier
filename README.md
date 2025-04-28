@@ -1,16 +1,22 @@
-## Hi there 👋
+👩‍💻 Jamile Xavier
+🌟 Comprometimento | Dedicação | Busca por Conhecimento
 
-<!--
-**jamile-xavier/jamile-xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Sobre Mim
+Sou uma profissional apaixonada por tecnologia, com foco em Quality Assurance (QA) e Automação de Testes.
+Minha jornada é marcada pelo comprometimento, dedicação e pela constante busca por conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, desenvolvo e automatizo testes para APIs e Interfaces, trabalhando com ferramentas como Postman, Robot Framework, Azure DevOps e Swagger.
+
+🛠️ Tecnologias & Ferramentas
+
+📚 Formação & Certificações
+Formação em Administração de empresas.
+
+Atualmente estudando Quality Assurance, com curso teórico e prático pela Qa Coders Academy.
+
+📈 GitHub Stats
+
+📬 Contato
+LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jamile-xavier/)
+
