@@ -1,23 +1,26 @@
-👩‍💻 Jamile Xavier
+### Jamile Xavier Mendonça 🐞
 
-🌟 Comprometimento | Dedicação | Busca por Conhecimento
+Profissional graduada em Administração, atualmente graduanda em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Em transição para a área de Tecnologia, com os estudos voltados para Quality Assurance (QA).
+Possuo experiência acadêmica com utilização do Azure DevOps, GitHub, Swagger, Postman, Robot Framework e Selenium.
+Perfil analítico, comprometido com a qualidade e a entrega de soluções eficientes. Facilidade de aprendizado, resolução de problemas e atenção a detalhes, voltada para a melhoria contínua de processos de software.
 
+<br>
 
-🚀 Sobre Mim
+## 📚 Formação Acadêmica
 
-Sou uma profissional apaixonada por tecnologia, com foco em Quality Assurance (QA) e Automação de Testes.
-Minha jornada é marcada pelo comprometimento, dedicação e pela constante busca por conhecimento.
+![Administração](https://img.shields.io/badge/Administra%C3%A7%C3%A3o-0F52BA)
+![ADS](<https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20(Cursando)-0F52BA>)
+![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software(Cursando)-0F52BA>)
 
-Atualmente, desenvolvo e automatizo testes para APIs e Interfaces, trabalhando com ferramentas como Postman, Robot Framework, Azure DevOps e Swagger.
+<br>
 
-🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas (Estudando)
 
-📚 Formação & Certificações
+![Postman](https://img.shields.io/badge/Postman-FF6C37?STYLO&logo=Postman&logoColor=FFFFFF)
+![RobotFramework](https://img.shields.io/badge/Robot%20Framework-00c0b5?STYLO&logo=robotframework&logoColor=FFFFFF)
+![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
+![Swagger](https://img.shields.io/badge/Swagger-63db2a?STYLO&logo=swagger&logoColor=FFFFFF)
 
-Formação em Administração de empresas.
+## 📬 Contato
 
-Atualmente estudando Quality Assurance, com curso teórico e prático pela Qa Coders Academy.
-
-📬 Contato
-LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jamile-xavier/)
-
+LinkedIn: [https://img.shields.io/badge/Linkedin-0e76a8](https://www.linkedin.com/in/jamile-xavier/)
