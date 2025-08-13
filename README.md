@@ -31,6 +31,8 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 
 [![Automação Web: Automation Practice](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-WEB)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-WEB)
 
+![Automação Web](https://github.com/jamile-xavier/QualityEaglesT13_Robot-WEB)
+
 ## 📲 Redes Sociais
 
 <a href="https://www.linkedin.com/in/jamile-xavier/">
