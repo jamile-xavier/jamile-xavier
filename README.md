@@ -21,6 +21,16 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 ![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
 ![Swagger](https://img.shields.io/badge/Swagger-63db2a?STYLO&logo=swagger&logoColor=FFFFFF)
 
+## Projetos
+
+### Postman
+
+### Automação API com Robot Framework
+
+### Automação Web com Robot Framework
+
+[![Automação Web: Automation Practice](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-WEB)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-WEB)
+
 ## 📲 Redes Sociais
 
 <a href="https://www.linkedin.com/in/jamile-xavier/">
@@ -28,6 +38,6 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
          alt="Badge do LinkedIn">
 </a>
 
-## 😺 Git stats
+## 📊 Git stats
 
 [![Jamile's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula)](https://github.com/jamile-xavier/github-readme-stats)
