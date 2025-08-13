@@ -1,4 +1,4 @@
-### Jamile Xavier Mendonça 🐞
+# Jamile Xavier Mendonça 🐞
 
 Profissional graduada em Administração, atualmente graduanda em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Em transição para a área de Tecnologia, com os estudos voltados para Quality Assurance (QA).
 Possuo experiência acadêmica com utilização do Azure DevOps, GitHub, Swagger, Postman, Robot Framework e Selenium.
@@ -21,9 +21,13 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 ![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
 ![Swagger](https://img.shields.io/badge/Swagger-63db2a?STYLO&logo=swagger&logoColor=FFFFFF)
 
-## 📬 Contato
+## 📲 Redes Sociais
 
 <a href="https://www.linkedin.com/in/jamile-xavier/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="Badge do LinkedIn">
 </a>
+
+## 😺 Git stats
+
+[![Jamile's GitHub stats]((https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula)](https://github.com/jamile-xavier/github-readme-stats)
