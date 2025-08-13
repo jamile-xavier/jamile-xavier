@@ -21,7 +21,7 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 ![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
 ![Swagger](https://img.shields.io/badge/Swagger-63db2a?STYLO&logo=swagger&logoColor=FFFFFF)
 
-## Projetos
+## 💻 Projetos
 
 ### Postman
 
