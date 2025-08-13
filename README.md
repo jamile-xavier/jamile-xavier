@@ -30,4 +30,4 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 
 ## 😺 Git stats
 
-[![Jamile's GitHub stats]((https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula)](https://github.com/jamile-xavier/github-readme-stats)
+[![Jamile's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula)](https://github.com/jamile-xavier/github-readme-stats)
