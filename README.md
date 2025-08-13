@@ -23,4 +23,7 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 
 ## 📬 Contato
 
-![Linkedin]:(https://www.linkedin.com/in/jamile-xavier/)
+<a href="https://www.linkedin.com/in/jamile-xavier/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="Badge do LinkedIn">
+</a>
