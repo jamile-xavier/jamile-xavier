@@ -10,7 +10,7 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 
 ![Administração](https://img.shields.io/badge/Administra%C3%A7%C3%A3o-0F52BA)
 ![ADS](<https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20(Cursando)-0F52BA>)
-![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software(Cursando)-0F52BA>)
+![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20(Cursando)-0F52BA>)
 
 <br>
 
@@ -23,17 +23,17 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 
 ## 💻 Projetos
 
-### Postman
+### ✅ Postman
 
 [![Serve Rest API](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman)
 [![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Postman)](https://github.com/jamile-xavier/QualityEaglesT13_Postman)
 
-### Automação API com Robot Framework
+### ✅ Automação API com Robot Framework
 
 [![Serve Rest API](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack)](https://github.com/jamile-xavier/ServeRest-RobotBack)
 [![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-API)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-API)
 
-### Automação Web com Robot Framework
+### ✅ Automação Web com Robot Framework
 
 [![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-WEB)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-WEB)
 
