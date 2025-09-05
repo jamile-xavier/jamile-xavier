@@ -9,7 +9,6 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 ## 📚 Formação Acadêmica
 
 ![Administração](https://img.shields.io/badge/Administra%C3%A7%C3%A3o-0F52BA)
-![ADS](<https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20(Cursando)-0F52BA>)
 ![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20(Cursando)-0F52BA>)
 
 <br>
