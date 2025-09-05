@@ -1,6 +1,6 @@
 # Jamile Xavier Mendonça 🐞
 
-Profissional graduada em Administração, atualmente graduanda em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Em transição para a área de Tecnologia, com os estudos voltados para Quality Assurance (QA).
+Profissional graduada em Administração, Pós-graduanda em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Em transição para a área de Tecnologia, com os estudos voltados para Quality Assurance (QA).
 Possuo experiência acadêmica com utilização do Azure DevOps, GitHub, Swagger, Postman, Robot Framework e Selenium.
 Perfil analítico, comprometido com a qualidade e a entrega de soluções eficientes. Facilidade de aprendizado, resolução de problemas e atenção a detalhes, voltada para a melhoria contínua de processos de software.
 
