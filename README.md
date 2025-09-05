@@ -24,6 +24,7 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 ![Trello](https://img.shields.io/badge/Trello-0079BF?STYLO&logo=Trello&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/Notion-E16259?STYLO&logo=Notion&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?STYLO&logo=GitHub&logoColor=FFFFF)
+![Gherkin](https://img.shields.io/badge/Gherkin-466353?STYLO&logo=gherkin&logoColor=FFFFF)
 
 ## 💻 Projetos
 
