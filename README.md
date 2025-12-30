@@ -1,15 +1,16 @@
 # Jamile Xavier Mendonça 🐞
 
-Profissional Bacharel em Administração, Pós-graduanda em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Em transição para a área de Tecnologia, com os estudos voltados para Quality Assurance (QA).
-Possuo experiência acadêmica com utilização do Azure DevOps, GitHub, Swagger, Postman, Robot Framework e Selenium.
-Perfil analítico, comprometido com a qualidade e a entrega de soluções eficientes. Facilidade de aprendizado, resolução de problemas e atenção a detalhes, voltada para a melhoria contínua de processos de software.
+Profissional graduanda em Análise e Desenvolvimento de Sistemas, Bacharel em Administração, Pós-graduada em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Atuo como Analista de Qualidade executando testes manuais, identificação e registro de bugs, criação de Casos de Teste em Gherkin, consultas SQL para validação de dados.
+
 
 <br>
 
 ## 📚 Formação Acadêmica
 
+![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas(Cursando)-0F52BA)
+![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20-0F52BA>)
 ![Administração](https://img.shields.io/badge/Administra%C3%A7%C3%A3o-0F52BA)
-![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20(Cursando)-0F52BA>)
+
 
 <br>
 
@@ -25,6 +26,7 @@ Perfil analítico, comprometido com a qualidade e a entrega de soluções eficie
 ![Notion](https://img.shields.io/badge/Notion-E16259?STYLO&logo=Notion&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?STYLO&logo=GitHub&logoColor=FFFFF)
 ![Gherkin](https://img.shields.io/badge/Gherkin-466353?STYLO&logo=gherkin&logoColor=FFFFF)
+![Postgres](https://img.shields.io/badge/Postgres-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
 
 ## 💻 Projetos
 
