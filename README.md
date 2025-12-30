@@ -7,9 +7,9 @@ Profissional graduanda em Análise e Desenvolvimento de Sistemas, Bacharel em Ad
 
 ## 📚 Formação Acadêmica
 
-![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas(Cursando)-0F52BA)
-![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20-0F52BA>)
-![Administração](https://img.shields.io/badge/Administra%C3%A7%C3%A3o-0F52BA)
+![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/Tecn%C3%B3logo-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas(Cursando)-0F52BA)
+![ES](https://img.shields.io/badge/P%C3%B3s-Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20-0F52BA)
+![Administração](https://img.shields.io/badge/Bacharel-Administra%C3%A7%C3%A3o-0F52BA)
 
 
 <br>
@@ -32,17 +32,16 @@ Profissional graduanda em Análise e Desenvolvimento de Sistemas, Bacharel em Ad
 
 ### ✅ Postman
 
-[![Serve Rest API](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman)
-[![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Postman)](https://github.com/jamile-xavier/QualityEaglesT13_Postman)
+[![Serve Rest API]](https://github.com/jamile-xavier/ServeRest-Postman)
 
 ### ✅ Automação API com Robot Framework
 
-[![Serve Rest API](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack)](https://github.com/jamile-xavier/ServeRest-RobotBack)
-[![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-API)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-API)
+[![Serve Rest API]](https://github.com/jamile-xavier/ServeRest-RobotBack)
+
 
 ### ✅ Automação Web com Robot Framework
 
-[![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-WEB)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-WEB)
+[![Serve_Rest_Web](https://github.com/jamile-xavier/ServeRest-RobotFront)
 
 ## 📲 Redes Sociais
 
@@ -51,6 +50,3 @@ Profissional graduanda em Análise e Desenvolvimento de Sistemas, Bacharel em Ad
          alt="Badge do LinkedIn">
 </a>
 
-## 📊 Git Stats
-
-[![Jamile's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula)](https://github.com/jamile-xavier/github-readme-stats)
