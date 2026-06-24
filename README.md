@@ -1,56 +1,78 @@
-# Jamile Xavier Mendonça 🐞
+# Olá, eu sou a Jamile 🐞
 
-Profissional graduanda em Análise e Desenvolvimento de Sistemas, Bacharel em Administração, Pós-graduada em Engenharia de Software com Ênfase em Qualidade e Testes de Software. Atuo como Analista de Qualidade executando testes manuais, identificação e registro de bugs, criação de Casos de Teste em Gherkin, consultas SQL para validação de dados.
+De Administradora a Técnica de Qualidade. Realizei minha transição de carreira para a área de Tecnologia em outubro de 2025 e hoje atuo garantindo a estabilidade e a conformidade de sistemas web e legados. Minha missão é unir minha bagagem estratégica de negócios em **Administração e Gestão de Processos** com a precisão técnica da **Engenharia de Software** para entregar produtos digitais com o mais alto nível de qualidade e experiência do usuário.
 
+---
 
-<br>
+### 🛠️ No que atuo hoje (Experiência Técnica)
 
-## 📚 Formação Acadêmica
+- **Qualidade no Início do Fluxo (DoR):** Análise e validação de critérios de pronto (Definition of Ready) das tarefas, garantindo que os requisitos especificados sejam testáveis, de fácil compreensão e livres de ambiguidades antes do desenvolvimento iniciar.
+- **Melhoria Contínua e UX:** Proposição ativa de sugestões de melhorias no design, usabilidade e experiência do usuário (UX/UI) das aplicações durante o ciclo de desenvolvimento.
+- **Testes e Validação:** Execução de testes funcionais, regressivos, integrados e exploratórios em sistemas web e legados.
+- **Banco de Dados:** Validação e análise de fluxos de dados por meio de consultas SQL em **PostgreSQL** e **SQL Server**.
+- **Automação de Testes:** Automação utilizando **Robot Framework** e **Sikuli**.
+- **Qualidade e Processos:** Identificação, registro e acompanhamento de bugs e inconsistências, reduzindo falhas operacionais e gerando documentação de conformidade.
 
-![Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas(Cursando)-0F52BA)
-![ES](<https://img.shields.io/badge/Engenharia%20de%20Software%20com%20%C3%8Anfase%20em%20Teste%20de%20Software%20-0F52BA>)
-![Administração](https://img.shields.io/badge/Administra%C3%A7%C3%A3o-0F52BA)
+---
 
+### 📚 Formação Acadêmica & Certificações
 
-<br>
+- 🎓 **Pós-Graduação em Engenharia de Software** com Ênfase em Qualidade e Testes de Software
+- 🎓 **Bacharel em Administração**
+- 🚀 **MBA em Gestão de Processos** _(Em andamento)_
+- 🎨 **Especialização em Design de Produtos Digitais (UX/UI)** _(Em andamento)_
 
-## 🛠️ Tecnologias & Ferramentas (Estudando)
+---
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?STYLO&logo=Postman&logoColor=FFFFFF)
-![RobotFramework](https://img.shields.io/badge/Robot%20Framework-00c0b5?STYLO&logo=robotframework&logoColor=FFFFFF)
-![AzureDevOps](https://img.shields.io/badge/Azure%20DevOps-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
-![Swagger](https://img.shields.io/badge/Swagger-63db2a?STYLO&logo=swagger&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/Jira-2A53CC?STYLO&logo=Jira&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?STYLO&logo=Figma&logoColor=FFFFFF)
-![Trello](https://img.shields.io/badge/Trello-0079BF?STYLO&logo=Trello&logoColor=FFFFFF)
-![Notion](https://img.shields.io/badge/Notion-E16259?STYLO&logo=Notion&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-171515?STYLO&logo=GitHub&logoColor=FFFFF)
-![Gherkin](https://img.shields.io/badge/Gherkin-466353?STYLO&logo=gherkin&logoColor=FFFFF)
-![Postgres](https://img.shields.io/badge/Postgres-007acc?STYLO&logo=azuredevops&logoColor=FFFFFF)
+### 🔭 Tecnologias, Frameworks e Ferramentas
 
-## 💻 Projetos
+**🧪 Testes, Automação & APIs**
 
-### ✅ Postman
+<p align="left">
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Gherkin-00A812?style=for-the-badge&logo=cucumber&logoColor=white" alt="Gherkin" />
+</p>
 
-[![Serve Rest API](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman)
-[![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Postman)](https://github.com/jamile-xavier/QualityEaglesT13_Postman)
+**🗄️ Banco de Dados & Design**
 
-### ✅ Automação API com Robot Framework
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-[![Serve Rest API](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack)](https://github.com/jamile-xavier/ServeRest-RobotBack)
-[![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-API)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-API)
+**📊 Gestão, Ciclo de Vida & Documentação**
 
-### ✅ Automação Web com Robot Framework
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
+---
+### 💻 Projetos em Destaque
 
-[![Teste ERP Academy T13](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=QualityEaglesT13_Robot-WEB)](https://github.com/jamile-xavier/QualityEaglesT13_Robot-WEB)
+| 🚀 Postman (API)                                                                                                                                                               | 🤖 Robot Framework (Backend)                                                                                                                                                     | 🌐 Robot Framework (Web)                                                                                                                                                             | 🖥️ Desktop (Sikuli)                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Serve Rest API Postman](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman) | [![Serve Rest API Robot](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack)](https://github.com/jamile-xavier/ServeRest-RobotBack) | [![Serve Rest Robot Front](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotFront)](https://github.com/jamile-xavier/ServeRest-RobotFront) | [![Bug Bakery Sikuli](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=BugBakery_Robot_Sikuli)](https://github.com/jamile-xavier/BugBakery_Robot_Sikuli) |
 
-## 📲 Redes Sociais
+---
 
-<a href="https://www.linkedin.com/in/jamile-xavier/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="Badge do LinkedIn">
-</a>
+### 📊 Estatísticas do GitHub
 
-## 📊 Git Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula" alt="Jamile's GitHub stats" />
+</p>
 
-[![Jamile's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula)](https://github.com/jamile-xavier/github-readme-stats)
+---
+
+### 🌐 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jamile-xavier/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
