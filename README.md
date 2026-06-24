@@ -1,6 +1,6 @@
 # Olá, eu sou a Jamile 🐞
 
-De Administradora a Técnica de Qualidade. Realizei minha transição de carreira para a área de Tecnologia em outubro de 2025 e hoje atuo garantindo a estabilidade e a conformidade de sistemas web e legados. Minha missão é unir minha bagagem estratégica de negócios em **Administração e Gestão de Processos** com a precisão técnica da **Engenharia de Software** para entregar produtos digitais com o mais alto nível de qualidade e experiência do usuário.
+De Administradora a Analista de Qualidade. Realizei minha transição de carreira para a área de Tecnologia em outubro de 2025 e hoje atuo garantindo a estabilidade e a conformidade de sistemas web e legados. Minha missão é unir minha bagagem estratégica de negócios em **Administração e Gestão de Processos** com a precisão técnica da **Engenharia de Software** para entregar produtos digitais com o mais alto nível de qualidade e experiência do usuário.
 
 ---
 
@@ -51,16 +51,31 @@ De Administradora a Técnica de Qualidade. Realizei minha transição de carreir
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 ---
+
 ### 💻 Projetos em Destaque
-| 🚀 Postman (API) | 🤖 Robot Framework (Backend) | 🌐 Robot Framework (Web) | 🖥️ Desktop (Sikuli) |
-| --- | --- | --- | --- |
-| [![Serve Rest API Postman](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman) | [![Serve Rest API Robot](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack)](https://github.com/jamile-xavier/ServeRest-RobotBack) | [![Serve Rest Robot Front](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotFront)](https://github.com/jamile-xavier/ServeRest-RobotFront) | [![Bug Bakery Sikuli](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=BugBakery_Robot_Sikuli)](https://github.com/jamile-xavier/BugBakery_Robot_Sikuli) |
+
+#### 🚀 Postman (API)
+
+[![Serve Rest API Postman](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman)
+
+#### 🤖 Robot Framework (Backend & Frontend)
+
+<p align="left">
+  <a href="https://github.com/jamile-xavier/ServeRest-RobotBack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack" alt="Serve Rest API Robot" />
+  </a>
+  <a href="https://github.com/jamile-xavier/ServeRest-RobotFront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotFront" alt="Serve Rest Robot Front" />
+  </a>
+</p>
+
+#### 🖥️ Desktop & Sistemas Legados (Sikuli)
+
+[![Bug Bakery Sikuli](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=BugBakery_Robot_Sikuli)](https://github.com/jamile-xavier/BugBakery_Robot_Sikuli)
 
 ---
 
 ### 📊 Estatísticas do GitHub
-
-<<<<<<< HEAD
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula" alt="Jamile's GitHub stats" />
