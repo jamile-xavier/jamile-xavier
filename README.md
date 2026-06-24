@@ -13,8 +13,6 @@ De Administradora a Técnica de Qualidade. Realizei minha transição de carreir
 - **Automação de Testes:** Automação utilizando **Robot Framework** e **Sikuli**.
 - **Qualidade e Processos:** Identificação, registro e acompanhamento de bugs e inconsistências, reduzindo falhas operacionais e gerando documentação de conformidade.
 
----
-
 ### 📚 Formação Acadêmica & Certificações
 
 - 🎓 **Pós-Graduação em Engenharia de Software** com Ênfase em Qualidade e Testes de Software
@@ -54,14 +52,15 @@ De Administradora a Técnica de Qualidade. Realizei minha transição de carreir
 </p>
 ---
 ### 💻 Projetos em Destaque
-
-| 🚀 Postman (API)                                                                                                                                                               | 🤖 Robot Framework (Backend)                                                                                                                                                     | 🌐 Robot Framework (Web)                                                                                                                                                             | 🖥️ Desktop (Sikuli)                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚀 Postman (API) | 🤖 Robot Framework (Backend) | 🌐 Robot Framework (Web) | 🖥️ Desktop (Sikuli) |
+| --- | --- | --- | --- |
 | [![Serve Rest API Postman](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-Postman)](https://github.com/jamile-xavier/ServeRest-Postman) | [![Serve Rest API Robot](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotBack)](https://github.com/jamile-xavier/ServeRest-RobotBack) | [![Serve Rest Robot Front](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=ServeRest-RobotFront)](https://github.com/jamile-xavier/ServeRest-RobotFront) | [![Bug Bakery Sikuli](https://github-readme-stats.vercel.app/api/pin/?username=jamile-xavier&repo=BugBakery_Robot_Sikuli)](https://github.com/jamile-xavier/BugBakery_Robot_Sikuli) |
 
 ---
 
 ### 📊 Estatísticas do GitHub
+
+<<<<<<< HEAD
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamile-xavier&theme=dracula" alt="Jamile's GitHub stats" />
