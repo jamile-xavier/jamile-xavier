@@ -33,15 +33,16 @@ De Administradora a Analista de Qualidade. Realizei minha transição de carreir
   <img src="https://img.shields.io/badge/Gherkin-00A812?style=for-the-badge&logo=cucumber&logoColor=white" alt="Gherkin" />
 </p>
 
-**🗄️ Banco de Dados & Design**
+**🗄️ Banco de Dados, Design & Dev**
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-**📊 Gestão, Ciclo de Vida & Documentação**
+**📊 Gestão, Ciclo de Vida & Sistema**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
@@ -49,7 +50,9 @@ De Administradora a Analista de Qualidade. Realizei minha transição de carreir
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Windows_Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Event Viewer" />
 </p>
+
 ---
 
 ### 💻 Projetos em Destaque
